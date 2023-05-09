@@ -1,0 +1,15 @@
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\bin\Debug\net7.0\BankSerializer.deps.json
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\bin\Debug\net7.0\BankSerializer.dll
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\bin\Debug\net7.0\BankSerializer.pdb
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\bin\Debug\net7.0\BankServer.dll
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\bin\Debug\net7.0\BankServer.pdb
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.csproj.AssemblyReference.cache
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.AssemblyInfoInputs.cache
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.AssemblyInfo.cs
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.csproj.CoreCompileInputs.cache
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.csproj.CopyComplete
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.dll
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\refint\BankSerializer.dll
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\BankSerializer.pdb
+D:\Programming\ThirdCourse\OOP\Serializer\BankSerializer\BankSerializer\obj\Debug\net7.0\ref\BankSerializer.dll
