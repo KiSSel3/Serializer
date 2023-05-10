@@ -6,10 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="BankServer">
-      <HintPath>..\..\..\BankingSystem\BankServer\bin\Debug\net7.0\BankServer.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
